@@ -90,22 +90,26 @@ MediTrack is an **AI-powered smart medication dispenser** designed to help elder
 - Hardware Prototype: Rotatory blister carousel with ESP32 and OLED.
 - Mobile App: Caregiver & patient dashboard with adherence tracking.
 
+## 📸 Flowchart
 <img width="964" height="1112" alt="image" src="https://github.com/user-attachments/assets/6e76871b-2570-4050-89a7-84eb16537160" />
 
-
+---
+## Design of Proposed prototype
 
 <img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/3694b1a3-fa95-4f4b-805b-4c90e1fe3e68" />
 
- 
+---
+
+ ## Design of Proposed prototype depicted along with its hardware components.
  <img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/9e9a9dcc-71d2-427c-99f4-de46f24a3919" />
 
- 
+ ---
+
+ ## Screenshot of the mobile application which is connected with the device
  <img width="262" height="530" alt="image" src="https://github.com/user-attachments/assets/237669cf-6077-44b9-84b0-5ab5e3d52927" />
 
+ ---
 
-
-
----
 
 ## 👨‍💻 Contributors
 
